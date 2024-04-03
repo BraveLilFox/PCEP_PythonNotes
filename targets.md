@@ -1,6 +1,6 @@
 # Learning Targets
 
-### Module 1: *Intro to Python & Computer Programming*
+### [Module 1: *Intro to Python & Computer Programming*](pcep_module1.md)
 In this module, you will learn about:
 1. The fundamentals of computer programming, i.e., how the computer works, how the program is executed, how the programming language is defined and constructed;
 2. The difference between compilation and interpretation;
