@@ -6,11 +6,11 @@ In this module, you will learn about:
 2. The difference between compilation and interpretation;
 3. What *Python* is, how it is positioned among other programming languages, and what distinguishes the different *Python* versions.
 
-### Module 2: *Data Types, Variables, Basic I/O Operations & Basic Operators*
+### [Module 2: *Data Types, Variables, Basic I/O Operations & Basic Operators*](pcep_module2.md)
 In this module, you will learn about:
 1. How to write and run simple *Python Programs*;
 2. What *Python* literals, operators, and expressions are;
 3. What variables are and what are the rules that govern them;
 4. How to perform basic I/O operations.
 
-
+### [Module 3: *Boolean Values, Conditional Execution, Loops, Lists and List Processing Logical & Bitwise Operations](pcep_module3.md)
