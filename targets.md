@@ -10,4 +10,7 @@ In this module, you will learn about:
 In this module, you will learn about:
 1. How to write and run simple *Python Programs*;
 2. What *Python* literals, operators, and expressions are;
-3. 
+3. What variables are and what are the rules that govern them;
+4. How to perform basic I/O operations.
+
+
