@@ -14,3 +14,7 @@ In this module, you will learn about:
 4. How to perform basic I/O operations.
 
 ### [Module 3: *Boolean Values, Conditional Execution, Loops, Lists and List Processing Logical & Bitwise Operations](pcep_module3.md)
+In this module, you will learn about:
+1. The *Boolean* data types;
+2. Relational Operators;
+3. Making decissions in *Python*
