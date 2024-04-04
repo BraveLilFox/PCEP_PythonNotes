@@ -5,4 +5,5 @@
 - Computers can only perform *EXTREMELY SIMPLE* operations
   - EX: a computer cannot understand the value of complicated mathematical function by itself.
 - **Comtemporary Computers** can only really evaluate the results of very fundamental operations like adding, or dividing. But they can do this with extreme speed and accuracy.
-- These **FOUR**
+- These **FOUR** simple actions represent a *Program*: (just an example)
+  - Accept a number representing the distance;
