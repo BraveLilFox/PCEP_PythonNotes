@@ -17,4 +17,18 @@ In this module, you will learn about:
 In this module, you will learn about:
 1. The *Boolean* data types;
 2. Relational Operators;
-3. Making decissions in *Python*
+3. Making decissions in *Python* (if, if-else, if-elif, else);
+4. How to repeat code execution using loops (while, for);
+5. How to perform logic and bitwise operations in *Python*;
+6. Lists in *Python* (constructing, indexing, and slicing; content manipulation);
+7. How to sort a list using bubble-sort algorithms;
+8. Multidimansional lists and their applications.
+
+### [Module 4: *Functions, Tuples, Dictionaries, Data Processing, and Execeptions*](pcep_module4.md)
+In this module, you will learn about:
+1. Code structuring and the concept of function;
+2. Function invocation and returning a result from a function;
+3. Name scopes and variable shadowing;
+4. Tuples and their purpose constructing and using tuples;
+5. Dictionaries and their purpose, constructing and using dictionaries;
+6. Exceptions - the *try* statement and the *except* clause, *Python* built-in exceptions, code testing and debugging.
