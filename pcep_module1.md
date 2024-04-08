@@ -12,5 +12,12 @@
   - Display the result(representing the average speed) in a readable format.
 - **LANGUAGE** is the keyword.
 
-### *Natural Language VS Programming Languages*.
+### *Natural Language VS Programming Languages.*
 
+### *What Makes A Language?*
+
+### *Compilation VS Interpretation.*
+
+### *What Does The Interpreter Actually Do?*
+
+### *Compi
