@@ -10,3 +10,4 @@
   - Accept a number representing the travel time;
   - Divide the former value by the latter and store the result in the memory;
   - Display the result(representing the average speed) in a readable format.
+- **LANGUAGE** is the keyword.
