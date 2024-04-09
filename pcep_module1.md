@@ -16,7 +16,9 @@
 - A ***LANGUAGE*** is a means (and a tool) for expressing and recording thoughts;
 - Computers have their own languages too, this is called ***MACHINE LANGUAGE*** which is *extremely* rudimentary;
 - You could say a computer is like a well-trained dog - *it only responds to a predetermined set of **KNOWN** commands*;
-- A complete set of known commands is called an 
+- A complete set of known commands is called an *INSTRUCTION LIST*, typically abbreviated as *'IL'*;
+  - *NOTE: MACHINE LANGUAGES ARE DEVELOPED BY **HUMANS***
+- 
 
 ### *What Makes A Language?*
 
