@@ -19,7 +19,7 @@
 - A complete set of known commands is called an *INSTRUCTION LIST*, typically abbreviated as *'IL'*;
   - *NOTE: MACHINE LANGUAGES ARE DEVELOPED BY **HUMANS***
 - No computer is *CURRENTLY* capable of creating a new language (this might change soon);
-- Human languages are developed **NATURALLY** and are still evolving with new words appearing everyday and old words disappearing. These are the ***NATURAL LANGUAGES***.
+- Human languages are developed **NATURALLY** and are still evolving with new words appearing everyday and old words disappearing, these are the ***NATURAL LANGUAGES***.
 
 ### *What Makes A Language?*
 
