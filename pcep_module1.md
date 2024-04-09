@@ -13,6 +13,7 @@
 - **LANGUAGE** is the keyword.
 
 ### *Natural Language VS Programming Languages.*
+- 
 
 ### *What Makes A Language?*
 
@@ -20,4 +21,8 @@
 
 ### *What Does The Interpreter Actually Do?*
 
-### *Compi
+### *Compilation VS Interpretation - Advantages And Disadvantages*
+
+### *What is Python?*
+
+### *
