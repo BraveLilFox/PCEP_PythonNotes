@@ -13,6 +13,8 @@
 - **LANGUAGE** is the keyword.
 
 ### *Natural Language VS Programming Languages.*
+- A ***LANGUAGE*** is a means (and a tool) for expressing and recording thoughts;
+- Computers have their own languages too, this is called ***MACHINE LANGUAGE*** which is *extremely* rudimentary;
 - 
 
 ### *What Makes A Language?*
@@ -25,4 +27,4 @@
 
 ### *What is Python?*
 
-### *
+### 
