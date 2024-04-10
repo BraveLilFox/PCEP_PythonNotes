@@ -26,7 +26,9 @@ Machine or Natural, each language consists of the following:
 1. An **ALPHABET**: a set of symbols used to build words of a certain language(e.g., the Latin alphabet for English, the Cyrillic for Russian, Kanji for Japanese and so on...);
 2. A **LEXIS**: (aka dictionary) a set of words the language offers its users (e.g., the word "computer" comes from the English Dictionary, while "cmopture" doesn't; the word "chat" is present in both the English and French Dictionaries, but their meanings are exponentially different);
 3. A **SYNTAX**: a set of rules (formal/informal, written/felt intuitively) used to determine if a certain string of words forms a valid sentence (e.g., "I am a python" is a syntactically correct phrase, while "I a python am." isn't correct);
-4. 
+4. **SEMANTICS**: a set of rules determining if a certain phrase  makes sense (e.g., "I ate a doughnut" makes sense, but "A doughnut ate me." doesn't necessarily make the most sense);
+
+
 
 ### *Compilation VS Interpretation.*
 
