@@ -28,15 +28,26 @@ Machine or Natural, each language consists of the following:
 3. A **SYNTAX**: a set of rules (formal/informal, written/felt intuitively) used to determine if a certain string of words forms a valid sentence (e.g., "I am a python" is a syntactically correct phrase, while "I a python am." isn't correct);
 4. **SEMANTICS**: a set of rules determining if a certain phrase  makes sense (e.g., "I ate a doughnut" makes sense, but "A doughnut ate me." doesn't necessarily make the most sense);
 
-The **IL** is, in fact ***the alphabet of a machine language***. The computer tongue.
-Unfortunately we need a bridge between that of the human tongue and computer tongue, a common language.
+The **IL** is, in fact ***the alphabet of a machine language***. The computer tongue. Unfortunately we need a bridge between that of the human tongue and computer tongue, a common language.
   - Such languages are often called *high-level programming languages*;
   - Somewhat similar to natural ones at least because they used symbols, words, and conventions readable to the human knowledge.
 
-A program written in a *high-level programming language* is called **SOURCE CODE**(in contrast to the machine code executed by computers);
-Similarly, the file containing the **SOURCE CODE** is called the **SOURCE FILE**.
+A program written in a *high-level programming language* is called **SOURCE CODE**(in contrast to the machine code executed by computers); Similarly, the file containing the **SOURCE CODE** is called the **SOURCE FILE**.
 
 ### *Compilation VS Interpretation.*
+Computer programming is the act of composing the selected programming language's elements in the order that will cause the desired effect.
+
+Of course, such a composition has to be correct in many senses:
+1. **Alphabetically** - a program needs to be written in a recognizable script such as Roman, Cyrillic, etc;
+2. **Lexically** - each programming language has its dictionary and you need to master it; thankfully it's much more simple than any natural language;
+3. **Syntactically** - each language has its rules and they *must* be obeyed;
+4. **Semantically** - the program has to make sense;
+
+Unfortunately, it is easy for a programmer to make a mistake with each of the above four senses. This causes the program to essentially become *useless*.
+
+These are the ***TWO*** different ways of **transforming a program from a high-level programming language into a machine language**.
+1. ***COMPILATION*** - the source program is translated once(however, this act must be repeated EACH time you modify the source code) by getting a file(e.g., an .exe file if the code is intended to be run under MS Windows) containing the machine code; now you can distribute the file worldwide; the program that performs this translation is called a **COMPILER** or **TRANSLATOR**;
+2. ***INTERPRETATION*** - you(or any user of the code) can translate the source program each time it has to be run; the program performing this kind of transformation is called an **INTERPRETER**, as it interprets the code every single time as it is intended to be executed; it also means that you cannot just distribute the source code as-is, because the end-user also needs the interpreter to execute it.
 
 ### *What Does The Interpreter Actually Do?*
 
@@ -44,4 +55,6 @@ Similarly, the file containing the **SOURCE CODE** is called the **SOURCE FILE**
 
 ### *What is Python?*
 
-### 
+### *A Hobby Programming Project*
+
+### **
