@@ -30,6 +30,7 @@ Machine or Natural, each language consists of the following:
 The **IL** is, in fact ***the alphabet of a machine language***. The computer tongue, a common language.
   - Such languages are often called *high-level programming languages*;
   - Somewhat similar to natural ones at least because they used symbols, words, and conventions readable to the human knowledge.
+
 A program written in a *high-level programming language* is called **SOURCE CODE**(in contrast to the machine code executed by computers);
 Similarly, the file containing the **SOURCE CODE** is called the **SOURCE FILE**.
 
