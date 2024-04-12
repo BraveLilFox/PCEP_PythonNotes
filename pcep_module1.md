@@ -1,6 +1,6 @@
 # Intro to Python & Computer Programming
 
-### *How does a computer program work?*
+### *How Does A Computer Program Work?*
 - *Programs* make a computer usuable; without a *program*, a computer is nothing more than an object.
 - Computers can only perform *EXTREMELY SIMPLE* operations
   - EX: a computer cannot understand the value of complicated mathematical function by itself.
@@ -50,11 +50,32 @@ These are the ***TWO*** different ways of **transforming a program from a high-l
 2. ***INTERPRETATION*** - you(or any user of the code) can translate the source program each time it has to be run; the program performing this kind of transformation is called an **INTERPRETER**, as it interprets the code every single time as it is intended to be executed; it also means that you cannot just distribute the source code as-is, because the end-user also needs the interpreter to execute it.
 
 ### *What Does The Interpreter Actually Do?*
+Now, your program actually exists as a **computer file**: a computer program is actually a piece of text, so the source code is usually placed in **text files**.
+
+*NOTE*: it has to be **PURE TEXT**, without any decoration like different fonts, colors, embedded images, etc..
+
+The *interpreter* reads the source code in the same way as Western Culture:
+- From top to bottom;
+- And left to right;
+- (with a few exceptions);
+
+1. **FIRST** the *interpreter* checks if all subsequent lines are correct;
+  a. if the *interpreter* finds an error, its work finishes IMMEDIATELY.
 
 ### *Compilation VS Interpretation - Advantages And Disadvantages*
 
-### *What is Python?*
+### *What Is Python?*
 
 ### *A Hobby Programming Project*
 
-### **
+### *What Makes Python Special?*
+
+### *Python Rivals*
+
+### *There Is More Than One Python*
+
+### *Python AKA CPython*
+
+### *Jython, PYPY, & RPython*
+
+### *
