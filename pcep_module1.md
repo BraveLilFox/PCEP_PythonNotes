@@ -29,7 +29,9 @@ Machine or Natural, each language consists of the following:
 4. **SEMANTICS**: a set of rules determining if a certain phrase  makes sense (e.g., "I ate a doughnut" makes sense, but "A doughnut ate me." doesn't necessarily make the most sense);
 The **IL** is, in fact ***the alphabet of a machine language***. The computer tongue, a common language.
   - Such languages are often called *high-level programming languages*;
-  - Somewhat similar to natural ones
+  - Somewhat similar to natural ones at least because they used symbols, words, and conventions readable to the human knowledge.
+A program written in a *high-level programming language* is called **SOURCE CODE**(in contrast to the machine code executed by computers);
+Similarly, the file containing the **SOURCE CODE** is called the **SOURCE FILE**.
 
 ### *Compilation VS Interpretation.*
 
