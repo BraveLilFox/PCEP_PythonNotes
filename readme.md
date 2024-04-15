@@ -8,3 +8,6 @@
 - [Data Types, Variables, Basic I/O Operations, & Basic Operators](pcep_module2.md)
 - [Boolean Values, Conditional Execution, Loops, Lists and List Processing, Logical & Bitwise Operations](pcep_module3.md)
 - [Functions, Tuples, Dictionaries, Data Processing, and Exceptions](pcep_module4.md)
+
+### Data Analysis With Python
+- [Data Analysis With Python Course](freeCodeCamp1.md)
