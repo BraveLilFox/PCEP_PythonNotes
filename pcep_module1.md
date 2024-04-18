@@ -60,7 +60,7 @@ The *interpreter* reads the source code in the same way as Western Culture:
 - (with a few exceptions);
 
 1. **FIRST** the *interpreter* checks if all subsequent lines are correct;
-  a. if the *interpreter* finds an error, its work finishes IMMEDIATELY.
+  1. if the *interpreter* finds an error, its work finishes IMMEDIATELY.
 
 ### *Compilation VS Interpretation - Advantages And Disadvantages*
 
