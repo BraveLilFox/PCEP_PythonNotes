@@ -59,8 +59,11 @@ The *interpreter* reads the source code in the same way as Western Culture:
 - And left to right;
 - (with a few exceptions);
 
-1. **FIRST** the *interpreter* checks if all subsequent lines are correct;
-  1. if the *interpreter* finds an error, its work finishes IMMEDIATELY.
+**FIRST** the *interpreter* checks if all subsequent lines are correct;
+- if the *interpreter* finds an error, its work finishes IMMEDIATELY.
+- The only result being in this case an **ERROR MESSAGE**
+- The *interpreter* will inform you of where this error occurred in your code and what caused it.
+  - 
 
 ### *Compilation VS Interpretation - Advantages And Disadvantages*
 
